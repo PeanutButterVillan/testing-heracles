@@ -48,3 +48,8 @@ When you're ready to submit your challenge, share the link to your repo with us.
 Please let us know how long the challenge takes you. We're not looking for how speedy or lengthy you are. It's just really to give us a clearer idea of what you've produced in the time you decided to take. Feel free to go as big or as small as you want.
 
 Happy testing! 🚀
+
+The unit tests are set up to run using Jest. I ran them from the terminal window in Visual Studio Code using 'yarn test'. There are five unit tests all passing. I added comments for additional unit tests to write
+
+The UI tests were written in cypress and confirm that the button is wired up to return the formatted value. There is one UI test currently. I added comments for other potential tests. The are executed from a terminal window using 'npm run e2e'.
+
